@@ -1,1 +1,3 @@
-# competetive
+# competetive-coding
+
+mostly leetcode questions
